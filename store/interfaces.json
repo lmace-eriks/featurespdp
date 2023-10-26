@@ -1,0 +1,6 @@
+{
+  "featurespdp": {
+    "component": "FeaturesPDP",
+    "composition": "children"
+  }
+}
